@@ -10,8 +10,9 @@ st.write("no. control 1909141")
 st.write("semestre 9")
 
 
+#se carga el dataframe y se visualiza en una grafica
 df = pd.read_csv("titanic_dataset.csv")
-#st.line_chart(df)
+st.line_chart(df)
 
 # Agregar un control deslizante
 age = st.slider("Selecciona una edad", 0, 100, 30)
