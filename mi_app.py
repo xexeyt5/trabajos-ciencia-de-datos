@@ -10,7 +10,7 @@ st.write("no. control 1909141")
 st.write("semestre 9")
 
 
-#se carga el dataframe y se visualiza en una grafica
+#se casrga el dataframe y se visualiza en una grafica
 df = pd.read_csv("housing.csv")
 st.line_chart(df['population'])
 
