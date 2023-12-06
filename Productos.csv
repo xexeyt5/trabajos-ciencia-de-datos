@@ -1,0 +1,21 @@
+idP,nombre,tipo,precio_compra,precio_venta
+1,Electrónica Producto1,Electrónica,29.73,38.76
+2,Ropa Producto1,Ropa,36.19,42.68
+3,Alimentación Producto1,Alimentación,86.68,123.02
+4,Hogar Producto1,Hogar,99.36,111.01
+5,Deporte Producto1,Deporte,35.01,50.94
+6,Electrónica Producto2,Electrónica,65.25,95.65
+7,Ropa Producto2,Ropa,85.82,105.32
+8,Alimentación Producto2,Alimentación,39.76,55.91
+9,Hogar Producto2,Hogar,28.83,37.53
+10,Deporte Producto2,Deporte,90.17,130.06
+11,Electrónica Producto3,Electrónica,92.28,126.01
+12,Ropa Producto3,Ropa,22.93,29.03
+13,Alimentación Producto3,Alimentación,18.1,21.32
+14,Hogar Producto3,Hogar,64.24,74.45
+15,Deporte Producto3,Deporte,66.57,92.56
+16,Electrónica Producto4,Electrónica,99.87,149.75
+17,Ropa Producto4,Ropa,41.68,54.61
+18,Alimentación Producto4,Alimentación,96.15,138.8
+19,Hogar Producto4,Hogar,19.2,25.43
+20,Deporte Producto4,Deporte,12.6,14.76
